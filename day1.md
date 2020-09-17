@@ -1,5 +1,5 @@
 
-###WEB SITES TO START RECON
+### WEB SITES TO START RECON
 ***
 ##1.Shodan.io
 Shodan is a search engine that lets the user find specific types of computers.
@@ -7,14 +7,14 @@ Shodan is a search engine that lets the user find specific types of computers.
 Some have also described it as a search engine of service banners,
 which are metadata that the server sends back to the client.
 
-##2.Censys.io
+## 2.Censys.io
 Censys is a platform that helps information security practitioners discover, monitor, 
 and analyze devices that are accessible from the Internet.
 Enterprises use Censys to understand their network attack surfaces.
 CERTs(community emergency response teams) and security researchers, 
-use it to discover new threats and assess their global impact.
+use it to discover new threats and assess their global impact
 
-##3.Crt.sh
+## 3.Crt.sh
 crt.sh is a web interface to a distributed database called the certificate transparency logs.
 certificate-transparency.org CRT is a file extension for a digital certificate file used with a web browser.
 CRT files are used to verify a secure website's authenticity,
