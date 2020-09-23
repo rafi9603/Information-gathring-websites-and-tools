@@ -8,7 +8,7 @@ Some have also described it as a search engine of service banners,
 which are metadata that the server sends back to the client.
 
 ## 2.Censys.io
-Censys is a platform that helps information security practitioners discover, monitor, 
+Censys is a platform that helps information security practitioners discover, monitor,  
 and analyze devices that are accessible from the Internet.
 Enterprises use Censys to understand their network attack surfaces.
 CERTs(community emergency response teams) and security researchers, 
